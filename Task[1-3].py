@@ -13,6 +13,7 @@ print(float(3+5/8))
 print(int(3+5/8))
 
 #Task3
+
 print(round((18.5*1.8+32),1))
 print(round(((-4-32)/1.8),1))
 
