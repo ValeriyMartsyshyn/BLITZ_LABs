@@ -10,5 +10,5 @@ import random
 
 #task12
 kg=int(input("enter your weight in kg: "))
-print(round(kg*2.2,-1))
+print(round(kg*2.2, 1))
 
