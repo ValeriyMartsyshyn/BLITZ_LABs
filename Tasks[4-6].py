@@ -1,11 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Task 4
+""" Task 4
 
-"""Calculate N! (factorial)"""
-
-# In[69]:
+	Calculate N! (factorial)"""
 
 
 n = int(input("Enter any natural number: "))
@@ -17,11 +15,9 @@ while i<n:
 print(f)
 
 
-# Task 5
+""" Task 5
 
-"""Check if the number is prime"""
-
-# In[70]:
+	Check if the number is prime"""
 
 
 n = int(input("Enter an integer > 1: "))
@@ -34,11 +30,9 @@ else:
         
 
 
-# Task 6
+""" Task 6
 
-"""Calculate number e"""
-
-# In[68]:
+	Calculate number e"""
 
 
 from math import factorial
