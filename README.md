@@ -1,2 +1,2 @@
 # Blitz
-Exercises from the first assignment
+Assigment tasks.
