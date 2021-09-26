@@ -50,7 +50,7 @@ def sneakers():
     for key in Shop:
         if key in Client:
             print (key, Shop[key])
-sneakers ()
+sneakers()
         
 
 """ Task 3
